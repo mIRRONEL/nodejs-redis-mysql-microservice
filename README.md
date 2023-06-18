@@ -6,7 +6,7 @@ npx create-my-app my-app
 
 cd my-app
 
-copy all line of code from App.js file into src/App.js file
+replace all line of code by App.js file into src/App.js file
 
 copy server.js file into my-app/ folder
 

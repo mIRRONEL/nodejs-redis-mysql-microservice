@@ -3,15 +3,20 @@ This is a simple microservice project build with react js, node, redis and mysql
 
 # Build front end,
 npx create-my-app my-app
+
 cd my-app
+
 copy all line of code from App.js file into src/App.js file
+
 copy server.js file into my-app/ folder
 
 # Install dependency 
 npm install
+
 npm install mysql express redis cors 
 
 # Start Service
 node server.js
+
 npm start
 
